@@ -44,6 +44,8 @@ My goal is to keep building **practical machine learning systems and analytical 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-green?style=for-the-badge)
 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask\&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green?style=for-the-badge)
