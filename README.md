@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Science+Enthusiast;Machine+Learning+Enthusiast;AI+Engineer+Enthusiast;Data+Analysis+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Science+Enthusiast;Machine+Learning+Enthusiast;AI+Engineer+Enthusiast;Deep+Learning+Enthusiast;Data+Analysis+Enthusiast" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshit Gajera</h1>
@@ -16,16 +16,18 @@ I am a **Data Science and Machine Learning enthusiast** with a strong interest i
 
 My primary focus is on understanding the **complete data science workflow**, including data preprocessing, feature engineering, model training, evaluation, and deployment.
 
-I enjoy experimenting with different **machine learning algorithms**, comparing model performance, applying hyperparameter tuning, and building practical projects that demonstrate real-world applications of data science and artificial intelligence.
+I enjoy experimenting with different **machine learning and deep learning algorithms**, comparing model performance, applying hyperparameter tuning, and building practical projects that demonstrate real-world applications of data science and artificial intelligence.
 
 I continuously improve my knowledge in:
 
-* Machine Learning algorithms and model evaluation
-* Data analysis and data visualization
-* Statistical concepts used in data science
-* Building data-driven applications and ML dashboards
+* Machine Learning algorithms and model evaluation  
+* Deep Learning architectures (ANN, CNN, RNN, LSTM, GRU)  
+* Transformer architecture and attention mechanisms  
+* Data analysis and data visualization  
+* Statistical concepts used in data science  
+* Building data-driven applications and ML dashboards  
 
-My goal is to keep building **practical machine learning systems and analytical solutions** while expanding my expertise in **Data Science, Artificial Intelligence, and advanced machine learning techniques**.
+My goal is to keep building **practical machine learning and deep learning systems** while expanding my expertise in **Data Science, Artificial Intelligence, and Generative AI**.
 
 ---
 
@@ -44,6 +46,24 @@ My goal is to keep building **practical machine learning systems and analytical 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+
+---
+
+## 🧠 Deep Learning & AI
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-ff6f00?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-red?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-blue?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-green?style=for-the-badge)
+![GRU](https://img.shields.io/badge/GRU-orange?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge)
+![Attention](https://img.shields.io/badge/Attention%20Mechanism-grey?style=for-the-badge)
+
+---
+
+## 🧾 NLP & AI Tools
+
 ![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-green?style=for-the-badge)
 
@@ -92,4 +112,4 @@ My goal is to keep building **practical machine learning systems and analytical 
 
 ---
 
-⭐ Always learning and exploring new technologies in **Data Science, Machine Learning, and Artificial Intelligence** while building real-world projects.
+⭐ Always learning and exploring new technologies in **Data Science, Machine Learning, Deep Learning, and Artificial Intelligence** while building real-world projects.
