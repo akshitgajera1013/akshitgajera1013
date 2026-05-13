@@ -53,6 +53,7 @@ My goal is to keep building **practical machine learning, deep learning, and gen
 
 ## 🧠 Deep Learning & AI
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
 ![Artificial Neural Networks](https://img.shields.io/badge/ANN-ff4c4c?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-ff6f00?style=for-the-badge)
