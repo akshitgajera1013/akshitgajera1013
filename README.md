@@ -23,11 +23,13 @@ I continuously improve my knowledge in:
 * Machine Learning algorithms and model evaluation  
 * Deep Learning architectures (**ANN, CNN, RNN, LSTM, GRU**)  
 * Transformer architecture and attention mechanisms  
+* **Generative AI, Large Language Models (LLMs), and RAG pipelines**  
+* **LangChain, LangGraph, and Vector Databases**  
 * Data analysis and data visualization  
 * Statistical concepts used in data science  
 * Building data-driven applications and ML dashboards  
 
-My goal is to keep building **practical machine learning and deep learning systems** while expanding my expertise in **Data Science, Artificial Intelligence, and Generative AI**.
+My goal is to keep building **practical machine learning, deep learning, and generative AI systems** while expanding my expertise in **Data Science, Artificial Intelligence, and Generative AI**.
 
 ---
 
@@ -60,6 +62,18 @@ My goal is to keep building **practical machine learning and deep learning syste
 ![GRU](https://img.shields.io/badge/GRU-orange?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge)
 ![Attention](https://img.shields.io/badge/Attention%20Mechanism-grey?style=for-the-badge)
+
+---
+
+## 🤖 Generative AI & LLMs
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector%20Database-FF4081?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0288D1?style=for-the-badge)
 
 ---
 
@@ -113,4 +127,4 @@ My goal is to keep building **practical machine learning and deep learning syste
 
 ---
 
-⭐ Always learning and exploring new technologies in **Data Science, Machine Learning, Deep Learning, and Artificial Intelligence** while building real-world projects.
+⭐ Always learning and exploring new technologies in **Data Science, Machine Learning, Deep Learning, Generative AI, and LLMs** while building real-world projects.
