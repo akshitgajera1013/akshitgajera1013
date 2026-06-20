@@ -14,22 +14,23 @@ Aspiring <b>Data Scientist</b> focused on building machine learning models, anal
 
 I am a **Data Science and Machine Learning enthusiast** with a strong interest in analyzing data, discovering patterns, and building predictive models that solve real-world problems.
 
-My primary focus is on understanding the **complete data science workflow**, including data preprocessing, feature engineering, model training, evaluation, and deployment.
+My primary focus is on understanding the **complete data science workflow**, including data preprocessing, feature engineering, model training, evaluation, deployment, and monitoring.
 
 I enjoy experimenting with different **machine learning and deep learning algorithms**, comparing model performance, applying hyperparameter tuning, and building practical projects that demonstrate real-world applications of data science and artificial intelligence.
 
 I continuously improve my knowledge in:
 
-* Machine Learning algorithms and model evaluation  
-* Deep Learning architectures (**ANN, CNN, RNN, LSTM, GRU**)  
-* Transformer architecture and attention mechanisms  
-* **Generative AI, Large Language Models (LLMs), and RAG pipelines**  
-* **LangChain, LangGraph, and Vector Databases**  
-* Data analysis and data visualization  
-* Statistical concepts used in data science  
-* Building data-driven applications and ML dashboards  
+- Machine Learning algorithms and model evaluation
+- Deep Learning architectures (**ANN, CNN, RNN, LSTM, GRU**)
+- Transformer architecture and attention mechanisms
+- **Generative AI, Large Language Models (LLMs), and RAG pipelines**
+- **LangChain, LangGraph, and Vector Databases**
+- Data analysis and data visualization
+- Statistical concepts used in data science
+- Building data-driven applications and ML dashboards
+- Developing and deploying ML applications using FastAPI
 
-My goal is to keep building **practical machine learning, deep learning, and generative AI systems** while expanding my expertise in **Data Science, Artificial Intelligence, and Generative AI**.
+My goal is to keep building **practical machine learning, deep learning, and generative AI systems** while expanding my expertise in **Data Science, Artificial Intelligence, Machine Learning Engineering, and Generative AI**.
 
 ---
 
@@ -84,6 +85,9 @@ My goal is to keep building **practical machine learning, deep learning, and gen
 ![NLTK](https://img.shields.io/badge/NLTK-green?style=for-the-badge)
 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green?style=for-the-badge)
 
 ![Probability](https://img.shields.io/badge/Probability%20&%20Statistics-purple?style=for-the-badge)
@@ -103,6 +107,14 @@ My goal is to keep building **practical machine learning, deep learning, and gen
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🚀 Deployment & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
 ---
 
@@ -128,4 +140,4 @@ My goal is to keep building **practical machine learning, deep learning, and gen
 
 ---
 
-⭐ Always learning and exploring new technologies in **Data Science, Machine Learning, Deep Learning, Generative AI, and LLMs** while building real-world projects.
+⭐ Always learning and exploring new technologies in **Data Science, Machine Learning, Deep Learning, FastAPI, Generative AI, LLMs, and AI Engineering** while building real-world projects.
